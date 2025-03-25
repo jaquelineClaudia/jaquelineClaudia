@@ -31,5 +31,33 @@ Soy una desarrolladora de software con 1 año de experiencia apasionada por crea
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tu-usuario-github.tu-repo)
-[![GitHub followers](https://img.shields.io/github/followers/jaquelineClaudia?label=Follow&style=social)](https://github.com/jaquelineClaudia)
+<div align="center">
+  
+### 📊 GitHub Stats & Activity
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jaquelineClaudia&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaquelineClaudia&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/jaquelineClaudia">
+    <img src="https://img.shields.io/github/followers/jaquelineClaudia?style=for-the-badge&logo=github&logoColor=white&labelColor=6A0DAD&color=9D4EDD&label=Seguidores" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/jaquelineClaudia">
+    <img src="https://img.shields.io/github/stars/jaquelineClaudia?style=for-the-badge&logo=github&logoColor=white&labelColor=FFCE00&color=FFE45E&label=Estrellas" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/jaquelineClaudia">
+    <img src="https://img.shields.io/github/commit-activity/m/jaquelineClaudia/jaquelineClaudia?style=for-the-badge&logo=github&logoColor=white&labelColor=0366D6&color=4F94EF&label=Commits" alt="Commit Activity" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=jaquelineClaudia&style=for-the-badge&color=blueviolet&label=VISITANTES" alt="Visitor Count" />
+
+</div>
