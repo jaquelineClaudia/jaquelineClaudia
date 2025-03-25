@@ -17,9 +17,21 @@ Soy una desarrolladora de software con 1 año de experiencia apasionada por crea
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes:** JavaScript, TypeScript
-- **Frameworks/Bibliotecas:** React, Express, Node.js, Angular
-- **Herramientas:** Git, VS Code, Webpack, npm
+- **Lenguajes:** 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+- **Frameworks/Bibliotecas:** 
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+- **Herramientas:** 
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+  ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ## 🏆 Proyectos Destacados
 
