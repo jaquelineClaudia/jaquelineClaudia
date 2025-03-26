@@ -30,39 +30,6 @@ Soy una desarrolladora de software con 1 año de experiencia apasionada por crea
 - **Optimización de Código:** Implementación y mejoras continuas en código para mantener altos estándares de calidad. ⚙️
 - **Trabajo en Equipo:** Comunicación efectiva y adaptabilidad en entornos de desarrollo ágiles. 🤝
 
-## 💻 Proyectos Destacados
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Proyecto React</h3>
-        <p align="center">
-          <a href="https://github.com/jaquelineClaudia" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Demo-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Demo" />
-          </a>
-          <a href="https://github.com/jaquelineClaudia" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Código-2a2e35?style=for-the-badge&logo=github&logoColor=white" alt="Código" />
-          </a>
-        </p>
-        <p align="center">Aplicación interactiva que demuestra mis habilidades en React y TypeScript.</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">API REST con Node.js</h3>
-        <p align="center">
-          <a href="https://github.com/jaquelineClaudia" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Demo-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Demo" />
-          </a>
-          <a href="https://github.com/jaquelineClaudia" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Código-2a2e35?style=for-the-badge&logo=github&logoColor=white" alt="Código" />
-          </a>
-        </p>
-        <p align="center">API REST desarrollada con Node.js y Express, implementando arquitectura MVC y buenas prácticas.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🛠️ Habilidades Técnicas
 
 <div>
